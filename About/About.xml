@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Bed Rest For Food Poisoning</name>
+	<author>1trickPonyta</author>
+	<packageId>bedrestforfoodpoisoning.1trickPonyta</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>
+If you're constantly vomitting and can barely move, would you go hunting? No, you would rest in bed. Now your colonists can too.
+
+This mod makes pawns consider food poisoning to be an affliction worthy of bed rest (as prioritized in the work tab). 
+
+This means you won't have to find Horton on the other side of the map hauling the rat meat from the sky while she can barely move, stopping every five seconds to vomit before dropping the rat meat and trying to get to the freezer to satisfy her empty food bar only to go slaughterer before she even makes it back into the base, killing your bonded yorkie and then collapsing on the ground in pain shock.
+	</description>
+	<url>https://github.com/1trickPonyta/BedRestForFoodPoisoning</url>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
