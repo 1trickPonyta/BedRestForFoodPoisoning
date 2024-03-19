@@ -6,6 +6,7 @@
 	<supportedVersions>
 		<li>1.3</li>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<description>
 If you're constantly vomitting and can barely move, would you go hunting? No, you would rest in bed. Now your colonists can too.
@@ -15,6 +16,7 @@ This mod makes pawns consider food poisoning (initial and major phases) to be an
 This means you won't have to find Horton on the other side of the map hauling the rat meat from the sky while she can barely move, stopping every five seconds to vomit before dropping the rat meat and trying to get to the freezer to satisfy her empty food bar only to go slaughterer before she even makes it back into the base, killing your bonded yorkie and then collapsing on the ground in pain shock.
 	
 === Updates ===
+03/19/2024: Updated to 1.5
 10/26/2022: Updated to 1.4
 	</description>
 	<url>https://github.com/1trickPonyta/BedRestForFoodPoisoning</url>
